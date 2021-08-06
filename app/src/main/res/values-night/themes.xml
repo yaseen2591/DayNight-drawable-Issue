@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="theme_color">@color/black</color>
+    <color name="icon_color">#FF3700B3</color>
+
+</resources>
